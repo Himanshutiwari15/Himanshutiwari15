@@ -1,6 +1,6 @@
 <img src = "https://static1.squarespace.com/static/5a3ab2ad90bade9f35107e99/5a3bff7c5404e2c4fa605608/5a3bff7d5404e2c4fa605636/1595448392497/hello-world.gif?format=1500w" alt = "hello world" width=100%>
 <h1 align="center">Hi :grinning:, I'm Himanshu Tiwari</h1>
-<h3 align="center">A Frontend Developer and an active participator</h3>
+<h3 align="center">A Frontend Developer and a weird personality</h3>
 
 - :fire: **Using Open Source as a saving account**
 - ⚡ Fun fact - **Don't ask me to fix your computer**
