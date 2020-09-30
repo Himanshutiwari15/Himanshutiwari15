@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-tiwari15092001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/himanshu-tiwari15092001/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/the_techbook" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/the_techbook" height="30" width="40" /></a>
 <a href="https://medium.com/@himanshutiwari15092001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@himanshutiwari15092001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/UCRPKp04jIe5NLNj0dpz94Og" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="practice code" height="30" width="40" /></a></h3>
+<a href="https://www.youtube.com/channel/UCRPKp04jIe5NLNj0dpz94Og" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="practice code" height="30" width="40" /></a></h3>
 </p>  
 
 
