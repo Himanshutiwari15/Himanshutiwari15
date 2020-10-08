@@ -2,6 +2,14 @@
 <h1 align="center">Hi :grinning:, I'm Himanshu Tiwari</h1>
 <h3 align="center">A Frontend Developer and a weird personality</h3>
 
+<h3 align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-himanshulinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-tiwari15092001)](https://www.linkedin.com/in/himanshu-tiwari15092001)
+[![Twitter Badge](https://img.shields.io/badge/-Himanshutwitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Himansh34258296)](https://twitter.com/Himansh34258296) 
+[![Instagram Badge](https://img.shields.io/badge/-the_techbook-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_techbook/?hl=en)](https://www.instagram.com/the_techbook/?hl=en)
+
+</h3>
+
 - :fire: **Using Open Source as a saving account**
 - 📫 How to reach me **himanshutiwari15092001@gmail.com**
 - ⚡ Fun fact - **Don't ask me to fix your computer**
@@ -14,11 +22,11 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwari15&layout=compact" alt="himanshutiwari15" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwari15&layout=compact&theme=radical" alt="himanshutiwari15" />
 </p>
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshutiwari15&show_icons=true" alt="himanshutiwari15" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshutiwari15&show_icons=true&theme=radical" alt="himanshutiwari15" />
 </p>
 
 <p>&nbsp;</p>
