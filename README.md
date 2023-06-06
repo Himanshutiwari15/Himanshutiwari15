@@ -1,3 +1,6 @@
+![Alt Text](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1500w)
+
+
 <img src = "https://www.hotfootdesign.co.uk/wp-content/uploads/2016/02/01-Tab_keys-1.gif" width=100%>
 <h1 align="center">Hi :grinning:, I'm Himanshu Tiwari</h1>
 <h3 align="center">I learn!</h3>
