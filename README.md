@@ -1,4 +1,4 @@
-![Alt Text](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1500w)
+![image](https://github.com/Himanshutiwari15/Himanshutiwari15/assets/56124265/f99d3105-6c1c-44cc-aa76-5177cb398e5f)
 
 
 <img src = "https://www.hotfootdesign.co.uk/wp-content/uploads/2016/02/01-Tab_keys-1.gif" width=100%>
